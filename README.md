@@ -67,7 +67,7 @@ While each project has a suggested structure, I am very open to self-directed pr
 
     _**Weeks 5-8** will be spent working on this project._
 
-3.  **Inviting Participation** ([starter repo](https://github.com/Weitzman-MUSA-JavaScript/engagement-project)) -- Interfaces that enable participation and collaboration. Your final project will focus on engaging the public around data. Building upon the concepts learned throughout the class, you will incorporate a significant amount of interactivity to invite members of the public to create, manipulate, or add to a dataset in some way. 
+3.  **Inviting Participation** ([starter repo](https://github.com/Weitzman-MUSA-JavaScript/engagement-project)) -- Interfaces that enable participation and collaboration. Your final project will focus on engaging the public around data. Building upon the concepts learned throughout the class, you will incorporate a significant amount of interactivity to invite members of the public to create, manipulate, or add to a dataset in some way.
 
     Final projects may be done in groups or independently. Criteria for success will be hammered out in a final project proposal. Group projects will be expected to engage with a wider scope and greater difficulty. _The focus of this project is public engagement and data generation._
 
@@ -77,7 +77,7 @@ While each project has a suggested structure, I am very open to self-directed pr
 
 My primary target for this course is to help each of you learn how to create data-backed interfaces that inform, empower, and engage people in the real world. I want you all to become conscientious builders of civic technology. I believe the best way to achieve this is through practice, which is why the course is centered around the three interface responsibilities outlined above.
 
-Part of my job, however, is to evaluate your work and assign a grade. In data analysis, there is a concept called Goodhart's Law (which we will discuss when we get to dashboards) that states: *when a measure becomes a target, it ceases to be a good measure.* 
+Part of my job, however, is to evaluate your work and assign a grade. In data analysis, there is a concept called Goodhart's Law (which we will discuss when we get to dashboards) that states: *when a measure becomes a target, it ceases to be a good measure.*
 
 Your grade is, ostensibly, a measure of the quality of your work. Getting you to a good grade is not my target. In fact, your grade is a second-order measure. The quality of your work is itself merely a measure of whether you are learning and able to put into practice the things I want you to learn.
 
@@ -130,21 +130,21 @@ There will be additional resources on topics covered in the class in the _[resou
 
 | Week | Date | Topic(s) | Learning Objective(s) (Students should be able to...) |
 | :--: | :--: | :-- | :-- |
-| **1** | **26&nbsp;Aug** | Getting started<br>Responsible use of AI coding assistants<br>**_Project Introduction: Telling a Narrative_** | <li> Know my name and what I do<br><li> Describe what JavaScript is good for in planning and data<br><li> Establish a responsible, documented workflow for using AI tools<br><li> Identify a potential dataset and overarching narrative for the first project |
-| **2** | **02&nbsp;Sep** | Designing for the User<br>Intro to Web Tech (HTML/CSS)<br>Intro to Web Accessibility (A11y) | <li> Describe the right questions to ask when starting a product<br><li> Put together an HTML page structure with simple semantic tags<br><li> Evaluate the accessibility of existing civic tech platforms using personas, developer tools, and WCAG criteria<br><li> Identify when to use which CSS units |
-| **3** | **09&nbsp;Sep** | Using JavaScript on the Web<br>Intro to Web Maps<br>The GeoJSON Data Format | <li> Create a script file to link to an HTML page<br><li> Explain what a library, framework, and CDN are<br><li> Import Leaflet for use and add a map to a page<br><li> Explain the relationship between JSON and GeoJSON |
-| **4** | **16&nbsp;Sep** | The Box Model<br>Flexbox and Grid Layouts<br>Debugging layouts & specificity<br>Asynchronous Behavior #1 (Events)<br>JS Style & Linting | <li> Explain an element's padding, margin, border, and width/height<br><li> Create linear layouts with flexbox and tabular layouts with grid<br><li> Use browser developer tools to inspect layouts and CSS specificity<br><li> Use `addEventListener` to trigger JS on map and layer objects<br><li> Use tools in VS Code to auto-format code and identify issues |
-| **5** | **23&nbsp;Sep** | Working with Data in JS (filtering, sorting, mapping, Turf.js)<br>Charting libraries<br>Organizing JavaScript Using Modules<br>**_Project Introduction: Supporting Decisions_** | <li> Use filter, map, and reduce functions to manipulate data<br><li> Generate GeoJSON structures and chart configurations from other data formats<br><li> Use import and export statements to organize code into modules<br><li> Discuss the strengths, weaknesses, and alternatives to dashboards |
-| **6** | **30&nbsp;Sep** | DOM Manipulation<br>Asynchronous behavior #2 (Requests, Timers) | <li> Query, insert, and remove elements in the DOM<br><li> Format a request URL with query string parameters<br><li> Use GET and POST requests<br><li> Explain the Promise vs async/await syntax of fetch |
-| **7** | **07&nbsp;Oct** | Map Tiles | <li> Render vector vs raster images (SVG vs Canvas) |
-| **8** | **14&nbsp;Oct** | Browser APIs (Geolocation)<br>3rd-party APIs (Routing, Geocoding) | <li> Access and utilize user geolocation data in the browser<br><li> Integrate external APIs for routing and address translation |
-| **9** | **21&nbsp;Oct** | **_Project Introduction: Inviting Participation_**<br>Browser-based data persistence (in-memory, session, and local storage) | <li>Case Study: Bikeshare Station Suggestion Tool</li> |
-| **10** | **28&nbsp;Oct** | Back-end as a Service (Firebase, Supabase)<br>Remote data persistence (Firestore) | <li> Set up and utilize a BaaS backend to persist and sync user-generated data |
-| **11** | **04&nbsp;Nov** | Reactive JavaScript patterns | <li> Implement state management and reactive data binding |
-| **12** | **11&nbsp;Nov** | Front-end build tools | <li> Utilize build tools (e.g., Vite) to prepare a client-side application for production |
-| **13** | **18&nbsp;Nov** | GIS Day @ Van Pelt, RDDSx |  |
+| **1** | **26&nbsp;Aug** | Getting started<br>Responsible use of AI coding assistants<br>**_Project Introduction: Telling a Narrative_** | <li> Know my name and what I do<li> Describe what JavaScript is good for in planning and data<li> Establish a responsible, documented workflow for using AI tools<li> Identify a potential dataset and overarching narrative for the first project |
+| **2** | **02&nbsp;Sep** | Designing for the User<br>Intro to Web Tech (HTML/CSS)<br>Intro to Web Accessibility (A11y) | <li> Describe the right questions to ask when starting a product<li> Put together an HTML page structure with simple semantic tags<li> Evaluate the accessibility of existing civic tech platforms using personas, developer tools, and WCAG criteria<li> Identify when to use which CSS units |
+| **3** | **09&nbsp;Sep** | Using JavaScript on the Web<br>Intro to Web Maps<br>The GeoJSON Data Format | <li> Create a script file to link to an HTML page<li> Explain what a library, framework, and CDN are<li> Import Leaflet for use and add a map to a page<li> Explain the relationship between JSON and GeoJSON |
+| **4** | **16&nbsp;Sep** | Working with Data in JS (filtering, sorting, mapping, Turf.js)<br>The Box Model<br>Flexbox and Grid Layouts<br>Debugging layouts & specificity<br>Asynchronous Behavior #1 (Events)<br>JS Style & Linting | <li> Explain an element's padding, margin, border, and width/height<li> Create linear layouts with flexbox and tabular layouts with grid<li> Use browser developer tools to inspect layouts and CSS specificity<li> Use `addEventListener` to trigger JS on map and layer objects<li> Use tools in VS Code to auto-format code and identify issues |
+| **5** | **23&nbsp;Sep** | DOM Manipulation<br>Charting libraries<br>Organizing JavaScript Using Modules<br>**_Project Introduction: Supporting Decisions_** | <li> Use filter, map, and reduce functions to manipulate data<li> Generate GeoJSON structures and chart configurations from other data formats<li> Use import and export statements to organize code into modules<li> Discuss the strengths, weaknesses, and alternatives to dashboards |
+| **6** | **30&nbsp;Sep** | Asynchronous behavior #2 (Requests, Timers) | <li> Query, insert, and remove elements in the DOM<li> Format a request URL with query string parameters<li> Use GET and POST requests<li> Explain the Promise vs async/await syntax of fetch |
+| **7** | **07&nbsp;Oct** | SVG vs. Canvas<br>Map Tile APIs<br>Module Loading<br>Practical Async (Events, APIs, Geolocation) | <li> Render vector vs raster images (SVG vs Canvas)<li> Access and utilize user geolocation data in the browser<li> Integrate external APIs for address translation and routing |
+| **8** | **14&nbsp;Oct** | **No in-person class; virtual lecture**<br>Client-Side Data Persistence (URL, Web Storage) | <li> Store and retrieve data in the browser using the URL and Web Storage APIs (Session & Local Storage)<li> Case Study: Bikeshare Station Suggestion Tool (Part 1) |
+| **9** | **21&nbsp;Oct** | Remote Data Persistence / BaaS (Firebase, Firestore)<br>**_Project Introduction: Inviting Participation_** | <li> Set up and utilize a BaaS backend to persist and sync user-generated data<li> Case Study: Bikeshare Station Suggestion Tool (Part 2) |
+| **10** | **28&nbsp;Oct** | Front-end Build Tools<br>Reactive Programming<br>Vite + Vue Intro | <li>Use modern build tools (`vite`) to scaffold and bundle applications<li> Understand reactive programming principles and Vue fundamentals |
+| **11** | **04&nbsp;Nov** | Practical Vue Components (Charts, Maps, Forms) | <li>Implement state management and reactive data binding<li> Build reusable Vue components wrapping charting libraries and web maps |
+| **12** | **11&nbsp;Nov** | Tying Vue + BaaS Together | <li> Integrate reactive UI components with remote persistence backends |
+| **13** | **18&nbsp;Nov** | Project Work / Guest Speaker<br>*(GIS Day @ Van Pelt, RDDSx)* |  |
 |        | ~~25&nbsp;Nov~~ | (No class - Thanksgiving Break / Friday Schedule) |  |
-| **14** | **02&nbsp;Dec** | Project presentations |  |
+| **14** | **02&nbsp;Dec** | Project Presentations & Wrap-up |  |
 
 <!-- Hidden instructor notes omitted for brevity, but you can keep them in your raw file! -->
 
@@ -154,11 +154,11 @@ In compliance with Penn's [Code of Academic Integrity](http://www.upenn.edu/acad
 
 ### Note about AI tools...
 
-I actually *want* you to use AI tools (like ChatGPT, Claude, or GitHub Copilot) in this class. You should use them to explore repositories, ask how to make modifications to code, and act as a personalized tutor to go deeper on concepts we discuss in class. 
+I actually *want* you to use AI tools (like ChatGPT, Claude, or GitHub Copilot) in this class. You should use them to explore repositories, ask how to make modifications to code, and act as a personalized tutor to go deeper on concepts we discuss in class.
 
 However, you must use a **responsible process**. This course is about learning to program and design interfaces, not just learning how to prompt an agent. When you use AI to help write code, you must:
 1. Make frequent Git commits so your progress is clear.
-2. Document your LLM context (either via code comments or PR descriptions). 
-3. **Deeply understand the code you are submitting.** 
+2. Document your LLM context (either via code comments or PR descriptions).
+3. **Deeply understand the code you are submitting.**
 
 Understand that these tools often make mistakes that can be difficult to identify if you don't know what you're doing. If you come to me or any other instructor to help debug something generated with AI, you must disclose the source of the code (we can usually tell anyway). The expectation is that you can explain *why* the code was written the way it was, not just that an AI generated it for you.

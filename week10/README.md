@@ -1,4 +1,5 @@
-# Videos
+## References
 
-- Data Persistance (part 2), Using the URL to Store Data, and Intro to Firebase - ([video](https://share.descript.com/view/jwjljZFylXW), ~76min)
-- Data Persistence (part 3), Firebase & Firestore - ([video](https://share.descript.com/view/X2ldUp6n0Dm), ~95min)
+* _You Don't Need a Frontend Framework_ - <https://dev.to/oryoffe/you-dont-need-a-frontend-framework-408m>
+* _Don't Build Your Own Framework_ - <https://dodov.dev/blog/dont-build-your-own-framework>
+
