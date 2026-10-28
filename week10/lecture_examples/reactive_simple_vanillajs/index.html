@@ -39,8 +39,8 @@
         summary.innerHTML = `The sum of ${a0.value}, ${a1.value} and ${a2.value} is ${a3.value}`;
       }
 
-      a0.addEventListener('input', updateA3);
-      a1.addEventListener('input', updateA3);
+      a0.addEventListener('input', updateA3); // when one of these objects change, update the other thing
+      a1.addEventListener('input',updateA3);
       a2.addEventListener('input', updateA3);
       a0.addEventListener('input', updateSummary);
       a1.addEventListener('input', updateSummary);
